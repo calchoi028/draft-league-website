@@ -1,7 +1,7 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from 'src/images/logo.svg';
+import 'src/css/App.css';
 
-function App() {
+const App = () => {
   return (
     <div className="App">
       <header className="App-header">
